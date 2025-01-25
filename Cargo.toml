@@ -1,0 +1,11 @@
+[package]
+name = "mass_password_gen_optimized"
+version = "0.2.0"
+edition = "2021"
+
+[dependencies]
+aes = "0.8"
+ctr = "0.9"
+cipher = "0.4"
+rayon = "1.7"
+sysinfo = "0.29"
